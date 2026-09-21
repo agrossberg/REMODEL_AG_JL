@@ -1,7 +1,5 @@
 # REMODEL Pipeline&#32;
 
-2026-09-17 · @Someone
-
 ## Summary
 
 The pipeline assigns each cell in a single-cell RNA-seq dataset an estimated time since injury, by projecting it onto a reference expression trajectory fit to spatial transcriptomics data from seven organs.
